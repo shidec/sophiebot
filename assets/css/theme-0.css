@@ -1,0 +1,21 @@
+.bg-header{
+	/* background-color: #03c95b; */
+	background-color: #02b94b;
+}
+
+.bg-sub-header{
+	background-color: #c2f9cb !important;
+}
+
+.text-header{
+	color: #fff !important;
+}
+
+.circle{
+	border-radius: 50%;
+}
+
+
+.pointer{
+	cursor: pointer;
+}
